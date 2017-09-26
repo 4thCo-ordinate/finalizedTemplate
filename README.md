@@ -1,2 +1,1 @@
-# finalizedTemplate
-i am using this template to build the template website
+We start workling with the template this is the initial released folder# finalizedTemplate
