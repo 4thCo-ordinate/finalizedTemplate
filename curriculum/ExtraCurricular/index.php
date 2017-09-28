@@ -11,7 +11,7 @@ Licence URI: http://www.os-templates.com/template-terms
 	<title>Home Page</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	<link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+	<link href="../../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 	
 </head>
 <body id="top">
@@ -39,7 +39,7 @@ Licence URI: http://www.os-templates.com/template-terms
 			SCHOOL NAME AND TAGLINE SHOULD BE PLACED HERE
     ######################################################## -->
     <div id="logo" class="fl_left">
-      <h1><a href="../index.php">iTutors Internation School</a></h1>
+      <h1><a href="../../index.php">iTutors Internation School</a></h1>
       <p>By the students for the students</p>
     </div>
     <div class="fl_right">
@@ -63,7 +63,7 @@ Licence URI: http://www.os-templates.com/template-terms
     <nav id="mainav" class="clear"> 
       <!-- ################################################################################################ -->
       <ul class="clear">
-        <li class="active usrstyle"  ><a href="../index.php">Home</a></li>
+        <li class="active usrstyle"  ><a href="../../index.php">Home</a></li>
         <li class="usrstyle"><a href="#">About us </a></li>
         <li class="usrstyle"><a class="drop" href="#">Academics</a>
         	<ul>
@@ -79,11 +79,11 @@ Licence URI: http://www.os-templates.com/template-terms
             <li><a href="#">Commitee</a></li>
           </ul>
         </li>
-        <li class="usrstyle"><a class="drop" href="#">Curriculum</a>
+        <li class="usrstyle"><a class="drop" href="../index.php">Curriculum</a>
           <ul>
-            <li><a href="./NationalFestival/index.php">National Festivals</a></li>
-            <li><a href="./AnnualDay/index.php">Anual Days</a></li>
-            <li><a href="./ExtraCurricular/index.php">Co-curricular Activities</a></li>
+            <li><a href="../NationalFestival/index.php">National Festivals</a></li>
+            <li><a href="../AnnualDay/index.php">Anual Days</a></li>
+            <li><a href="../ExtraCurricular/index.php">Co-curricular Activities</a></li>
           </ul>
         </li>
         <li class="usrstyle"><a href="#">Calendar</a></li>
@@ -96,45 +96,88 @@ Licence URI: http://www.os-templates.com/template-terms
 <!-- ################################################################################################ --> 
 <!-- ################################################################################################ --> 
 
+
+
+
 <div class="wrapper row3">
   <div class="rounded">
     <main class="container clear"> 
       <!-- main body --> 
       <!-- ################################################################################################ -->
-      <h1>National Festivals</h1>
-      <img class="imgl borderedbox" src="../images/demo/120x120.gif" alt="">
-      <p>Aliquatjusto quisque nam consequat doloreet vest orna partur scetur portortis nam. Metadipiscing eget facilis elit sagittis felisi eger id justo maurisus convallicitur.</p>
-      <p>This section is going to contain few lines about the national festivals description along with the link that takes it to the more relevent information regarding national festival celebration in current school<br>.</p>
-      <p>This section is going to contain few lines about the national festivals description along with the link that takes it to the more relevent information regarding national festival celebration in current school<br>.</p>
-      <p>This section is going to contain few lines about the national festivals description along with the link that takes it to the more relevent information regarding national festival celebration in current school<br>.</p>
-      <p class="imgr"> <a href="NationalFestival/index.php">More about national festivals >></a></p>
-      <br>
-      <br>
+      <div id="portfolio">
+        <ul class="nospace clear">
+          <li class="one_half first">
+            <article><img class="borderedbox" src="../../images/demo/portfolio/1.png" alt="">
+              <h2>Extra Curricular 1</h2>
+              <p>A short desciption about tthe national festival 1 and link pointing to clear explaination of celebration during the current year.</p>
+              <p class="right"><a href="#">Read More Here &raquo;</a></p>
+            </article>
+          </li>
+          <li class="one_half">
+            <article><img class="borderedbox" src="../../images/demo/portfolio/1.png" alt="">
+               <h2>Extra Curricular 1</h2>
+              <p>A short desciption about tthe national festival 1 and link pointing to clear explaination of celebration during the current year.</p>
+              <p class="right"><a href="#">Read More Here &raquo;</a></p>
+            </article>
+          </li>
+          <li class="one_half first">
+            <article><img class="borderedbox" src="../../images/demo/portfolio/1.png" alt="">
+               <h2>Extra Curricular 1</h2>
+              <p>A short desciption about tthe national festival 1 and link pointing to clear explaination of celebration during the current year.</p>
+              <p class="right"><a href="#">Read More Here &raquo;</a></p>
+            </article>
+          </li>
+          <li class="one_half">
+            <article><img class="borderedbox" src="../../images/demo/portfolio/1.png" alt="">
+               <h2>Extra Curricular 1</h2>
+              <p>A short desciption about tthe national festival 1 and link pointing to clear explaination of celebration during the current year.</p>
+              <p class="right"><a href="#">Read More Here &raquo;</a></p>
+            </article>
+          </li>
+          <li class="one_half first">
+            <article><img class="borderedbox" src="../../images/demo/portfolio/1.png" alt="">
+               <h2>Extra Curricular 1</h2>
+              <p>A short desciption about tthe national festival 1 and link pointing to clear explaination of celebration during the current year.</p>
+              <p class="right"><a href="#">Read More Here &raquo;</a></p>
+            </article>
+          </li>
+          <li class="one_half">
+            <article><img class="borderedbox" src="../../images/demo/portfolio/1.png" alt="">
+               <h2>Extra Curricular 1</h2>
+              <p>A short desciption about tthe national festival 1 and link pointing to clear explaination of celebration during the current year.</p>
+              <p class="right"><a href="#">Read More Here &raquo;</a></p>
+            </article>
+          </li>
+        </ul>
+      </div>
       <!-- ################################################################################################ --> 
-      <h1>Anual Days</h1>
-      <img class="imgl borderedbox" src="../images/demo/120x120.gif" alt="">
-      <p>Aliquatjusto quisque nam consequat doloreet vest orna partur scetur portortis nam. Metadipiscing eget facilis elit sagittis felisi eger id justo maurisus convallicitur.</p>
-      <p>This section is going to contain few lines about the anual Days description along with the link that takes it to the more relevent information regarding national festival celebration in current school<br>.</p>
-      <p>This section is going to contain few lines about the anual Days description along with the link that takes it to the more relevent information regarding anual Days celebration in current school<br>.</p>
-      <p>This section is going to contain few lines about the national festivals description along with the link that takes it to the more relevent information regarding anual Days celebration in current school<br>.</p>
-      <p class="imgr"> <a href="AnnualDay/index.php">More about anual Days >></a></p>
-      <br>
-      <br>
-
-      <h1>Extra Curricular Activities</h1>
-      <img class="imgl borderedbox" src="../images/demo/120x120.gif" alt="">
-      <p>Aliquatjusto quisque nam consequat doloreet vest orna partur scetur portortis nam. Metadipiscing eget facilis elit sagittis felisi eger id justo maurisus convallicitur.</p>
-      <p>This section is going to contain few lines about the Extra Curricular Activities description along with the link that takes it to the more relevent information regarding Extra Curricular Activities celebration in current school<br>.</p>
-      <p>This section is going to contain few lines about the Extra Curricular Activities description along with the link that takes it to the more relevent information regarding Extra Curricular Activities celebration in current school<br>.</p>
-      <p>This section is going to contain few lines about the Extra Curricular Activities description along with the link that takes it to the more relevent information regarding Extra Curricular Activities celebration in current school<br>.</p>
-      <p class="imgr"> <a href="ExtraCurricular/index.php">More about Extra Curricular Activities >></a></p>
-      <br>
-      <br>
+      <!-- ################################################################################################ -->
+      <nav class="pagination">
+        <ul>
+          <li><a href="#">&laquo; Previous</a></li>
+          <li><a href="#">1</a></li>
+          <li><a href="#">2</a></li>
+          <li><strong>&hellip;</strong></li>
+          <li><a href="#">6</a></li>
+          <li class="current"><strong>7</strong></li>
+          <li><a href="#">8</a></li>
+          <li><a href="#">9</a></li>
+          <li><strong>&hellip;</strong></li>
+          <li><a href="#">14</a></li>
+          <li><a href="#">15</a></li>
+          <li><a href="#">Next &raquo;</a></li>
+        </ul>
+      </nav>
+      <!-- ################################################################################################ --> 
       <!-- / main body -->
       <div class="clear"></div>
     </main>
   </div>
 </div>
+
+
+
+
 <!-- ################################################################################################ --> 
 <!-- ################################################################################################ --> 
 <!-- ################################################################################################ -->
@@ -144,7 +187,7 @@ Licence URI: http://www.os-templates.com/template-terms
     <footer id="footer" class="clear"> 
       <!-- ################################################################################################ -->
       <div class="one_third first">
-        <figure class="center"><img class="btmspace-15" src="../images/demo/worldmap.png" alt="">
+        <figure class="center"><img class="btmspace-15" src="../../images/demo/worldmap.png" alt="">
           <figcaption><a href="#">Find Us With Google Maps &raquo;</a></figcaption>
         </figure>
       </div>
@@ -192,10 +235,10 @@ Licence URI: http://www.os-templates.com/template-terms
   </div>
 </div>
 <!-- JAVASCRIPTS --> 
-<script src="../layout/scripts/jquery.min.js"></script> 
-<script src="../layout/scripts/jquery.fitvids.min.js"></script> 
-<script src="../layout/scripts/jquery.mobilemenu.js"></script> 
-<script src="../layout/scripts/tabslet/jquery.tabslet.min.js"></script>
+<script src="../../layout/scripts/jquery.min.js"></script> 
+<script src="../../layout/scripts/jquery.fitvids.min.js"></script> 
+<script src="../../layout/scripts/jquery.mobilemenu.js"></script> 
+<script src="../../layout/scripts/tabslet/jquery.tabslet.min.js"></script>
 
 
 </body>

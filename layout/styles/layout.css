@@ -68,10 +68,12 @@ File: Layout CSS
 #slider #slide-tabs li:last-child button{border-width:0 1px 1px 1px;}
 /* Content Area
 --------------------------------------------------------------------------------------------------------------- */
-.container{padding:20px 10px;}
+.container{padding:20px 10px; 	}
 
-.container h1, .container h2, .container h3, .container h4, .container h5, .container h6, .container .heading{padding-bottom:8px; border-bottom:1px solid;}
-
+.container h1, .container h2, .container h3, .container h4, .container h5, .container h6, .container .heading{padding-bottom:8px; border-bottom:1px solid; color: black}
+.container h1 {font-size: 30pt; font-family: Courier; color: }
+.container p {color: black}
+.container a { font-size: medium; font-style: italic;}
 /* Content */
 .container #content{}
 
